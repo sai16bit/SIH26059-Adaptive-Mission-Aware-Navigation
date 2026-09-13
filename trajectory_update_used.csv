@@ -1,0 +1,2 @@
+iceberg_id,prediction_time,horizon_hours,predicted_latitude,predicted_longitude,uncertainty_km
+c32,2023-03-07,48,-66.06663513183594,132.76048278808594,26.47446439176784
